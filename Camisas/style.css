@@ -3,6 +3,17 @@ html, body, div {
 	padding: 0;
 }
 
-div.main {
+div#container {
+	text-align: center;
+}
+.dropzone {
+	border-radius: 5%;
+	margin: auto;
+	height: 20em;
+	width: 50em;
+	border: 4px dashed black;
+}
 
+.dropzone:hover {
+	cursor: pointer;
 }
