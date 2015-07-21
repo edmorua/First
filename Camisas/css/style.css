@@ -6,6 +6,12 @@ html, body, div {
 div#container {
 	text-align: center;
 }
+
+div#blah {
+	height: 10em;
+	width: 10em;
+	background-color: red;
+}
 .dropzone {
 	border-radius: 5%;
 	margin: auto;
